@@ -2,7 +2,7 @@ package GarbageCollectorLab;
 
 public class UtilAnimal {
 
-	public static void main(String[] args) {
+	public static final void main(String ... args) {
 		Animal a1 = new Animal();
 		Animal a2 = new Animal();
 		Animal a3 = new Animal();
