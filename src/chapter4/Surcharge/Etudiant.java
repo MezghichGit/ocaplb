@@ -2,7 +2,7 @@ package chapter4.Surcharge;
 
 public class Etudiant {
  
-	public Etudiant()  // déclaration explicite du constructeur par défaut
+	 Etudiant()  // déclaration explicite du constructeur par défaut
 	{
 		System.out.println("Constructeur par defaut");
 	}
