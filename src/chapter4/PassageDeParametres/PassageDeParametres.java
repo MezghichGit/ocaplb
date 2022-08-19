@@ -36,7 +36,7 @@ public class PassageDeParametres {
 	public static void main(String[] args) {
 		
 		String s = new String("OCA");
-		s = modifString(s);
+		modifString(s);
 		System.out.println(s);
 		
 		/*
